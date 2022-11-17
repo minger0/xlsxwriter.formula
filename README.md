@@ -1,1 +1,1 @@
-# xlsxwriter.formula
+# xlsxwriter_formula
